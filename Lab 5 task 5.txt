@@ -1,0 +1,12 @@
+import random
+
+def get_random_password() -> str:
+    a='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    b ='abcdefghijklmnopqrstuvwxyz'
+    c=random.randint('0123456789')# TODO написать функцию генерации случайных паролей
+    return get_random_password
+    random_num = random.uniform(a,b,c)
+    print(random_num)
+
+
+print(random.random())
