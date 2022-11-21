@@ -1,4 +1,4 @@
-list_unique_numbers=[0,1,2]
+list_unique_numbers=[-10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,2,3,4,5]
 def get_unique_list_numbers() -> list[int]:
     return list_unique_numbers  # TODO написать функцию для получения списка уникальных целых чисел
 
